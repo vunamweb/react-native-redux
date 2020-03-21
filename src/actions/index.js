@@ -11,4 +11,4 @@ export const counterIncrease = () => dispatch => {
             }); 
 };
 
-export const counterDecrease = () => ({ type: DECREASE });saga
+export const counterDecrease = () => ({ type: DECREASE });sagazz
